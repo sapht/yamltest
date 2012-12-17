@@ -1,0 +1,12 @@
+- This is the readme
+- I am the readme |
+	maybe this will become
+	something like a paragraph
+	who knows
+comment: hello |
+	hmm ok
+--- #this is a yaml comment
+	ok
+--- |
+	the quick brown fox
+	jumps over the lazy hax
